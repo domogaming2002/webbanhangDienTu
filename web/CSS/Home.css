@@ -1,0 +1,115 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 25, 2022, 2:31:42 PM
+    Author     : ADMIN
+*/
+
+
+.navbar-left{
+    width: 170px;
+}
+
+.dieu_huong{
+    font-size: 20px;
+}
+
+
+
+.dieu_huong:first-child li {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar_text{
+    padding-top: 2%;
+}
+
+.banner img{
+    width: 100%;
+   height: 293px;
+   
+}
+
+.Trang_chu-left{
+    margin-top: 30px;
+}
+
+.category table{
+    border: 1px solid black;
+    margin-left: 50px;
+}
+
+
+.category table tr th{
+    padding: 10px 0;
+    text-align: center;
+    
+}
+
+.category table tr{
+    border-top: 1px solid black;
+}
+
+.category a{
+    padding-right: 100px;
+    
+}
+a:selection{
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:active{
+    background-color: rgb(188, 231, 253);
+}
+
+.Trang_chu-right{
+    margin: 20px 0;
+}
+
+.Trang_chu-right>*{
+    margin: 30px 0;
+}
+
+.image_sp img{
+    width:  100%;
+    
+}
+
+.list_sp{
+
+    margin-top: 10px;    
+    text-align: center;
+}
+
+.text-box{
+    background-color: rgb(188, 231, 253);
+    
+}
+
+.text-box>*{
+    margin: 10px 0;
+}
+
+.text-box p{
+    padding-top: 20px ;
+}
+.price span{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.footer {
+    background-color: black;
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}

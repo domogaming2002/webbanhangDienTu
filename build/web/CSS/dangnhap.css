@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(188, 231, 253);
+
+}
+
+#Form_DangNhap{
+    padding:10px 50px;
+    border: 1px solid black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+#logo{
+    text-align: center;
+}
+#logo a img{
+    width: 200px;
+}
+
+
+.input input{
+    border: none;
+    width: 250px;
+
+
+}
+
+.text-danger{
+    color:#a94442;
+    text-align: center;
+}
+
+input:focus{
+    outline: none;
+}
+
+.input{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.DangNhap_Under{
+    text-align: center;
+
+}
+
+.DangNhap_Under>*{
+    margin: 10px;
+}
+
+.Forget_Password{
+    text-align: right;
+    margin-right: 80px;
+}
+
+.Forget_Password a{
+    text-decoration: none;
+    color: black;
+}
+
+.Forget_Password span{
+    margin-right: 100px;
+}
+
+.Forget_Password a:hover{
+    color:rgb(188, 231, 253) ;
+}
+
+.Login{
+    border-radius: 10px;
+    width: 70%;
+    height: 50px;
+    font-size: 20px;
+}
+
+.Login:hover{
+    background-color:#4285F4 ;
+    color: white;
+}
+
+.Email{
+    border: 1px solid black;
+    margin-left: 70px;
+    background-color: #4587f2;
+
+}
+
+.Email>*{
+    padding-top: 10px;
+    color:#34a853;
+}
+
+.Email a{
+    color: white;
+    text-decoration: none;
+}
+
+.Email:hover{
+    background-color: #Ea4335;
+
+}
+
+.footer {
+    background-color: black;
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}

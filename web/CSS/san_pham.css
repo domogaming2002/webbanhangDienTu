@@ -1,0 +1,32 @@
+.navbar-left{
+    width: 170px;
+}
+
+.dieu_huong{
+    font-size: 20px;
+}
+
+
+
+.dieu_huong:first-child li {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar_text{
+    padding-top: 2%;
+}
+
+
+
+.footer {
+    background-color: black;
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Hinh_anh img{
+    width: 300px;
+}
